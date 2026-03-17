@@ -1,19 +1,19 @@
 # Hi 👋, I'm ThetPaingWin
 <p align="start">
-     <a href="https://user-badge.committers.top/myanmar_private/ThetpaingWin8834">
-    <img src="https://user-badge.committers.top/myanmar_private/ThetpaingWin8834.svg" alt="Committers Badge" />
+     <a href="https://user-badge.committers.top/myanmar_private/tpwin-dev">
+    <img src="https://user-badge.committers.top/myanmar_private/ThetpaingWin.svg" alt="Committers Badge" />
   </a>
   </p>
 
 <h3 align="center">A passionate mobile developer from Myanmar</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thetpaingwin8834&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tpwin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thetpaingwin8834" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tpwin-dev" alt="Trophies" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-- 📫 How to reach me: **thetpaingwin.tpw@gmail.com**
+- 📫 How to reach me: **thetpaingwin.dev@gmail.com**
 
 ---
 
