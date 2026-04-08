@@ -108,5 +108,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thetpaingwin8834" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tpwin-dev" alt="Streak Stats" />
 </p>
