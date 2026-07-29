@@ -1,7 +1,7 @@
 # Hi 👋, I'm ThetPaingWin
 <p align="start">
      <a href="https://user-badge.committers.top/myanmar_private/tpwin-dev">
-    <img src="https://user-badge.committers.top/myanmar_private/ThetpaingWin.svg" alt="Committers Badge" />
+    <img src="https://user-badge.committers.top/myanmar_private/tpwin-dev.svg" alt="Committers Badge" />
   </a>
   </p>
 
